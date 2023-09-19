@@ -1,0 +1,1 @@
+Each `.py` file has a main function that can be run directly.
